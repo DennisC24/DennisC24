@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cameron Dennis  
 
-🎓 **Mathematics & Computer Science Student** @ **Durham University**  
+🎓 **4th Year Finalist in Mathematics & Computer Science Student** @ **Durham University**  
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 **Welsh**
 📊 Focused on **Deep Learning & Statistics**  
 
